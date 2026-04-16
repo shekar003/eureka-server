@@ -1,0 +1,12 @@
+/.metadata/
+
+
+*.classpath
+
+*.log
+
+*.zip
+
+*.ini
+
+*.metadata

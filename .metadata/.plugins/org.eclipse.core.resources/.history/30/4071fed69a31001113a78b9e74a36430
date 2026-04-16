@@ -1,9 +1,0 @@
-server:
-  port: 8761
-  
-  spring:
-  cloud:
-    config:
-      enabled: false
-      import-check:
-        enabled: false
